@@ -7,13 +7,12 @@ logo:             # filename of a logo image that has been placed into your imag
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Isik Ilber Sirmatel
+  name: Işık İlber Sırmatel
   avatar: bio-photo.jpg
   bio: 
   email: isik.sirmatel@gmail.com
   twitter: #username
   facebook: #username
-  linkedin: işık-ilber-sırmatel-7098b459
   instagram: #username
   github: #username
   researchgate: #username
@@ -24,6 +23,7 @@ owner:
     verify:
     scholar: SP2aGyUAAAAJ
   bing-verify:
+  linkedin: işık-ilber-sırmatel-7098b459
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   xing: #username
   lastfm: #username
