@@ -3,18 +3,29 @@ layout: resume
 ---
 ## Current Appointment
 
-Doctoral assistant at Urban Transport Systems Laboratory, EPFL
+Doctoral assistant at Urban Transport Systems Laboratory, EPF Lausanne
 
 ## Education
 
 `2015 - 2019`
-__Swiss Federal Institute of Technology in Lausanne__
+__EPF Lausanne__
 
-Degree Awarded
+Ph.D., electrical engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2014`
+__ETH Zurich__
+
+M.Sc., mechanical engineering
+
+`2008 - 2012`
+__Istanbul Technical University__
+
+B.Sc., control engineering
+
+`2006 - 2010`
+__Istanbul Technical University__
+
+B.Sc., mechanical engineering
 
 ## Awards
 
