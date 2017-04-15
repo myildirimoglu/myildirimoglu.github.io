@@ -14,7 +14,6 @@ owner:
   twitter: #username
   facebook: #username
   instagram: #username
-  linkedin: #username
   github: #username
   researchgate: #username
   mendeley: #username
@@ -24,6 +23,7 @@ owner:
     verify:
     scholar: SP2aGyUAAAAJ
   bing-verify:
+  linkedin: işık-ilber-sırmatel-7098b459
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   xing: #username
   lastfm: #username
