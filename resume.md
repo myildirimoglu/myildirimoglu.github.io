@@ -3,12 +3,12 @@ layout: resume
 ---
 ## Current Appointment
 
-Current Position Description
+Doctoral assistant at Urban Transport Systems Laboratory, EPFL
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2015 - 2019`
+__Swiss Federal Institute of Technology in Lausanne__
 Degree Awarded
 
 `1995 - 1997`
