@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-## Currently
+## Current Appointment
 
 Current Position Description
 
