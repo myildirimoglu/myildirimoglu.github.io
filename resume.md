@@ -4,7 +4,7 @@ layout: resume
 
 ## Current appointment
 
-Doctoral assistant of Prof. Nikolas Geroliminis at Urban Transport Systems Laboratory (LUTS), Swiss Federal Institute of Technology in Lausanne (EPF Lausanne).
+Doctoral assistant of Prof. Nikolas Geroliminis at Urban Transport Systems Laboratory (LUTS), EPF Lausanne.
 
 ## Education
 
