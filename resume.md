@@ -8,10 +8,7 @@ Doctoral assistant at EPF Lausanne
 
 ## Education
 
-2015 - 2019
-__EPF Lausanne__
-
-Ph.D., electrical engineering
+2015 - 2019 - Ph.D., electrical engineering, __EPF Lausanne__
 
 2012 - 2014
 __ETH Zurich__
