@@ -5,7 +5,7 @@ title: Publications
 
 ## Conference articles
 
-I. İ. Sırmatel and N. Geroliminis, "<a href="http://ieeexplore.ieee.org/abstract/document/7799311/" style="color: #183048">Model predictive control of large-scale urban networks via perimeter control and route guidance actuation,</a>" <i>2016 IEEE 55th Conference on Decision and Control (CDC)</i>, Las Vegas, NV, 2016, pp. 6765-6770.
+I. İ. Sırmatel and N. Geroliminis, "<a href="http://ieeexplore.ieee.org/abstract/document/7799311/" style="color: #183048" style="text-decoration:underline;">Model predictive control of large-scale urban networks via perimeter control and route guidance actuation,</a>" <i>2016 IEEE 55th Conference on Decision and Control (CDC)</i>, Las Vegas, NV, 2016, pp. 6765-6770.
 
 ## Theses
 
