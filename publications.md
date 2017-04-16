@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: presentation-post-index
 ---
 
 ## Conference papers
