@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            
+title:            Işık İlber Sırmatel
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: scholar.google.com/citations?user=SP2aGyUAAAAJ
+    scholar: SP2aGyUAAAAJ
   bing-verify:
   linkedin: işık-ilber-sırmatel-7098b459
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
