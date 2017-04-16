@@ -1,6 +1,5 @@
----
 layout: publications
----
+title: Publications
 
 ## Conference papers
 
