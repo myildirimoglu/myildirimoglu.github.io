@@ -9,4 +9,4 @@ title: Presentations
 
 ## 2014
 
-<a href="https://sirmatel.github.io/assets/files/novel_MPC_structures.pdf" style="color: #2d5a8c; text-decoration:underline">Investigations of novel MPC structures for hybrid and adaptive control</a>
+<a href="https://sirmatel.github.io/assets/files/novel_MPC_structures.pdf" style="color: #2d5a8c; text-decoration:underline">Investigations of novel model predictive control structures for hybrid and adaptive control</a>
