@@ -1,5 +1,5 @@
 ---
-layout: presentation-post-index
+layout: presentations
 title: Presentations
 ---
 
