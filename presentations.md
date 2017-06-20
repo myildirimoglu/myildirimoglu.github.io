@@ -1,7 +1,6 @@
 ---
 layout: presentation-post-index
 title: Presentations
-excerpt: "Recent Presentations"
 ---
 
-[Link to a file]({{ site.baseurl }}{% link /assets/file/pcrg_slides.pdf %})
+[Link to a file]({{ site.baseurl }}{% link /assets/files/pcrg_slides_CDC2016.pdf %})
