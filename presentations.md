@@ -3,8 +3,10 @@ layout: presentations
 title: Presentations
 ---
 
-[<font color=#2d5a8c>Model predictive control of large-scale urban networks via perimeter control and route guidance actuation</font>]({{site.baseurl}}{% link /assets/files/pcrg_slides_CDC2016.pdf %})
+## 2016
 
 <a href="https://sirmatel.github.io/assets/files/pcrg_slides_CDC2016.pdf" style="color: #2d5a8c; text-decoration:underline">Model predictive control of large-scale urban networks via perimeter control and route guidance actuation</a>
 
+## 2014
 
+<a href="https://sirmatel.github.io/assets/files/novel_MPC_structures.pdf" style="color: #2d5a8c; text-decoration:underline">Investigations of novel MPC structures for hybrid and adaptive control</a>
