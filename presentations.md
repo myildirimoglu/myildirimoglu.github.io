@@ -4,4 +4,4 @@ title: Presentations
 excerpt: "Recent Presentations"
 ---
 
-{{ site.baseurl }}{% link /assets/files/doc.pdf %}
+[Link to a file]({{ site.baseurl }}{% link /assets/file/pcrg_slides.pdf %})
