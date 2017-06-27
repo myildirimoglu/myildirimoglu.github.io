@@ -3,10 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Işık İlber Sırmatel received the B.Sc. degrees in mechanical and control engineering from Istanbul Technical University, Turkey, and the M.Sc. degree in mechanical engineering from Swiss Federal Institute of Technology in Zurich (ETH Zurich), Switzerland, in 2010, 2012, and 2014, respectively. He is currently working toward the Ph.D. degree in electrical engineering at the Urban Transport Systems Laboratory (LUTS), Swiss Federal Institute of Technology in Lausanne (EPF Lausanne), Switzerland. His research interests include automatic control, optimization, and model predictive control, with applications to control of transportation systems.
+Mehmet Yıldırımoğlu is a lecturer of transport engineering at the School of Civil Engineering. Mehmet received his B.Sc. degree in civil engineering from the Middle East Technical University (METU) in 2009, M.Sc. degree in civil engineering from the Rutgers University in 2011 and Ph.D. degree in civil engineering from École Polytechnique Fédérale de Lausanne (EPFL) in 2015. Prior to joining the School of Civil Engineering at the University of Queensland in 2016, he was a Postdoctoral researcher at EPFL, Switzerland. His research revolves around large-scale traffic modeling, dynamic traffic assignment, data mining techniques and real-time traffic management.
 
-## Current work:
+## Research Interests:
 
-- Mixed logical dynamical modeling and hybrid model predictive control of bus transport systems
-- Nonlinear model predictive control of highway traffic via variable speed limits
-- Nonlinear moving horizon estimation for large-scale urban road networks
+- Traffic flow theory
+- Dynamic traffic assignment
+- Travel time estimation
+- Urban transportation systems
+- Data mining
+- Real-time traffic management
