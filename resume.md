@@ -5,14 +5,12 @@ title: Resume
 
 ## Current appointment
 
-Doctoral assistant at Urban Transport Systems Laboratory (LUTS), EPF Lausanne.
+Lecturer of transport engineering at the School of Civil Engineering, Faculty of Engineering, Architecture and Information Technology, University of Queensland.
 
 ## Education
 
-2015 - 2019 &nbsp;&nbsp;&nbsp; Ph.D. in electrical engineering, EPF Lausanne
+2011 - 2015 &nbsp;&nbsp;&nbsp; Ph.D. in civil Engineering, EPF Lausanne
 
-2012 - 2014 &nbsp;&nbsp;&nbsp; M.Sc. in mechanical engineering, ETH Zurich
+2009 - 2011 &nbsp;&nbsp;&nbsp; M.Sc. in civil Engineering, Rutgers University
 
-2008 - 2012 &nbsp;&nbsp;&nbsp; B.Sc. in control engineering, Istanbul Technical University
-
-2006 - 2010 &nbsp;&nbsp;&nbsp; B.Sc. in mechanical engineering, Istanbul Technical University
+2005 - 2009 &nbsp;&nbsp;&nbsp; B.Sc. in civil Engineering, Middle East Technical University
