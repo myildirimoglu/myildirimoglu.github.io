@@ -7,11 +7,11 @@ logo:             # filename of a logo image that has been placed into your imag
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Işık İlber Sırmatel
+  name: Mehmet Yıldırımoğlu
   avatar: bio-photo.jpg
-  bio: "Researcher in automatic control of transportation."
-  email: isik.sirmatel@gmail.com
-  university: isik.sirmatel?lang=en
+  bio: "Lecturer of transport engineering."
+  email: m.yildirimoglu@uq.edu.au
+  university: #username
   twitter: #username
   facebook: #username
   instagram: #username
@@ -22,7 +22,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: SP2aGyUAAAAJ
+    scholar: GDYM2koAAAAJ
   bing-verify:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -31,12 +31,12 @@ owner:
   pinterest: #username
   foursquare: #username
   steam: #username
-  quora: profile/Işık-İlber-Sırmatel
+  quora: #username
   dribbble: #username
   youtube: #username
   soundcloud: #username
   weibo: #username
-  linkedin: işık-ilber-sırmatel-7098b459
+  linkedin: #username
   flickr: #username
   codepen: #username
   disqus-shortname:
